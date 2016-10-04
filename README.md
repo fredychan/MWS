@@ -1,4 +1,4 @@
 # MWS
 hello world
 
-what sup githubers
+I'm fredy trying to make website to pull orders from MWS. don't know how to start please help!!!
